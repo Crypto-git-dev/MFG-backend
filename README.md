@@ -1,7 +1,6 @@
-# Customized Go Backend Server
+# MFG Backend Server
 
-Customized Go Backend Server Project for quickly building RESTful APIs using Node.js, Express and Mongoose.
-And also it involves a game engine for customized Go play which is programmed by Rust.
+MFG Project for quickly building RESTful APIs using Node.js, Express and Mongoose.
 The project comes with many built-in features, such as authentication using JWT, request validation, unit and integration tests,
 continuous integration, docker support, API documentation, pagination, etc.
 
